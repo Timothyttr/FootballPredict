@@ -28,7 +28,7 @@ Key to results data:
 
 - Div = League Division
 - Date = Match Date (dd/mm/yy)
-- Time = Time of match kick off
+- Time = Time of match kick off - REMOVE
 - HomeTeam = Home Team
 - AwayTeam = Away Team
 - FTHG and HG = Full Time Home Team Goals
