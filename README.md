@@ -16,3 +16,6 @@ Prob important:
 - coach type of play
 
 First we start of with pre processing. And finding the data.
+Netherlands - https://www.football-data.co.uk/netherlandsm.php
+England - https://www.football-data.co.uk/englandm.php
+Spain - https://www.football-data.co.uk/spainm.php
